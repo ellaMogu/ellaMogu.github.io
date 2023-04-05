@@ -4,4 +4,4 @@
 
 [主页](https://ellaMogu.github.io/)
 ##作业一
-[词频统计图](https://ellaMogu.github.io/《论语》人物关系图.html)
+[词频统计图](https://ellaMogu.github.io/)
